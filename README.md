@@ -66,6 +66,7 @@ A short, accurate description of what it does.
 - Building mobile apps with Flutter and Dart
 - Developing Python APIs with FastAPI
 - Improving software design, testing and maintainability
+- CISCO IT Essentials for cybersecurity 
 
 ## Contact
 
