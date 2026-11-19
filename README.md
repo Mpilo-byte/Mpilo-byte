@@ -25,6 +25,8 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
   
   <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   </p>
 
   ### Frameworks & Tools
@@ -41,7 +43,7 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 ### AdNix
 Open-source ad blocking and privacy protection
 
-- **Tech:** <img alt="JavaScript" src="https://shields.io" />
+- **Tech:** <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 - **Status:** In development
 - **Repository:** [View
 project](https://github.com/Mpilo-byte/AdNix)
