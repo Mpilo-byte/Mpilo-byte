@@ -29,7 +29,7 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 
   ### Frameworks & Tools
 
- <p>
+ <p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -77,7 +77,7 @@ A short, accurate description of what it does.
 ## Contact
 
 - **GitHub:** [@Mpilo-byte](https://github.com/Mpilo-byte)
-- **Email:** [Mpilonhle Malope](malopempilonhle@gmail.com)
+- **Email:** [@Mpilonhle Malope](malopempilonhle@gmail.com)
 
 ---
 
