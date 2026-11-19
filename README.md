@@ -38,7 +38,15 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 
 ## Projects
 
-Projects will be added when they are ready.
+---
+
+### AdNix
+Open-source ad blocking and privacy protection
+
+- **Tech:** JavaScript
+- **Status:** In development
+- **Repository:** [View
+project](https://github.com/Mpilo-byte/AdNix)
 
 <!--
 To feature a project, replace this comment with a section like:
