@@ -23,7 +23,7 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 
   ### Languages
   
-  <p align="center">
+  <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -31,7 +31,7 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 
   ### Frameworks & Tools
 
- <p align="center">
+ <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
