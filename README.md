@@ -23,7 +23,7 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 
   ### Languages
   
-  <p>
+  <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   </p>
 
