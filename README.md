@@ -41,7 +41,7 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 ### AdNix
 Open-source ad blocking and privacy protection
 
-- **Tech:** JavaScript
+- **Tech:** <img alt="JavaScript" src="https://shields.io" />
 - **Status:** In development
 - **Repository:** [View
 project](https://github.com/Mpilo-byte/AdNix)
