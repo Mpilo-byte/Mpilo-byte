@@ -38,8 +38,6 @@ I'm Mpilo, 19, a developer interested in building useful applications and turnin
 
 ## Projects
 
----
-
 ### AdNix
 Open-source ad blocking and privacy protection
 
